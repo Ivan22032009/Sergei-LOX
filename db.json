@@ -1,1 +1,9 @@
-
+{
+    "users":{
+     "id": 1,
+     "name": "Ivan",
+     "surname": "Ischenko",
+     "photo_url":"https://storage.googleapis.com/rep-storage/avatars/636763f5be36dd4965c84ce2/1710953847855/big_avatar.png",
+     "balanse":"1000$-day"
+}
+}
