@@ -1,6 +1,10 @@
 {
-    "users":[
-     
-    ]
+    "users":{
+     "id":2,
+     "name":"Maksim",
+     "surname":"Slota",
+     "photo_url":"https://storage.googleapis.com/rep-storage/avatars/6367641abe36dd4965c84ce4/1698853088843/big_avatar.png",
+     "balanse":"500"
+    }
 }
 
