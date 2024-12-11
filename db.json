@@ -1,27 +1,27 @@
 {
-<<<<<<< HEAD
-    "users":{
+
+    "users":[
+        {
      "id":2,
      "name":"Maksim",
      "surname":"Slota",
      "photo_url":"https://storage.googleapis.com/rep-storage/avatars/6367641abe36dd4965c84ce4/1698853088843/big_avatar.png",
      "balanse":"500"
-    }
-=======
-<<<<<<< HEAD
+    },
+    
+
     "users":{
      "id": 1,
      "name": "Ivan",
      "surname": "Ischenko",
      "photo_url":"https://storage.googleapis.com/rep-storage/avatars/636763f5be36dd4965c84ce2/1710953847855/big_avatar.png",
      "balanse":"1000$-day"
-}
-}
-=======
-    "users":[
-     
-    ]
->>>>>>> 762d32aea9582419b0638a8faac77bb244b159a2
+}],
 }
 
->>>>>>> 13e64a1670581e97b8cea23bae36fd57b8b26a08
+    "product":[
+     
+    ]
+
+}
+
